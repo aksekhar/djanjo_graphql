@@ -1,0 +1,8 @@
+setuptools
+tk
+tzdata
+wheel
+Django
+graphene-django
+django-cors-headers
+django-graphql-jwt
